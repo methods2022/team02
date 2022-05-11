@@ -1,9 +1,6 @@
-lear documentation is critical to the success of your project. This checklist is meant to help you cover all your bases. Not every section/subsection will be relevant to your project; pick and choose what is. Inspired by READMEs of very successful projects like etcd.
-
-Please copy-paste this into a new document and save as you build your READMEs. For alternative formats, you might create a Structured README, which offers a thorough breakdown of optional README ingredients for you to consider. You might also take a look at this similar checklist; or check out art-of-readme.
 Team 02 README - Investigating COVID-19 Pandemic Temporal Research Trends
 
--This project pulls data from NCBI's PubMed using Julia's EFetch pipeline
+-This project analyzes the temporal frequency patterns of MeSH header data from COVID-19 related publications in NCBI's PubMed using Julia's EFetch pipeline. 
 
 -This data is pulled into a series of Julia files that parse and prune the data for standardization purposes
 
