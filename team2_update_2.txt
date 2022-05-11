@@ -1,0 +1,159 @@
+Searching for articles with query 2019-nCoV OR 2019nCoV OR COVID-19 OR SARS-CoV-2 OR (wuhan AND coronavirus) AND 2019/12[PDAT]:2022/04[PDAT]
+Retstart: 0
+Retstart: 100
+10|2022
+8|2022 Apr
+2|2022 Apr 1
+2|2022 Apr 11
+2|2022 Apr 12
+2|2022 Apr 14
+11|2022 Apr 15
+3|2022 Apr 17
+46|2022 Apr 18
+4|2022 Apr 19
+2|2022 Apr 5
+2|2022 Apr 7
+1|2022 Apr 9
+2|2022 Apr-Jun
+1|2022 Jan-Mar
+1|2022 Mar 25
+1|2022 Mar 29
+100 of 247284 dates extracted using DP
+10|2022
+8|2022 Apr
+2|2022 Apr 1
+2|2022 Apr 11
+2|2022 Apr 12
+2|2022 Apr 14
+11|2022 Apr 15
+3|2022 Apr 17
+46|2022 Apr 18
+4|2022 Apr 19
+2|2022 Apr 5
+2|2022 Apr 7
+1|2022 Apr 9
+2|2022 Apr-Jun
+1|2022 Jan-Mar
+1|2022 Mar 25
+1|2022 Mar 29
+100 of 247284 dates extracted using PHST [pubmed]
+1|2020/11
+1|2021/12
+2|2022/02
+14|2022/03
+21|2022/04
+39 of 247284 dates extracted using PHST [accepted]
+Searching for articles with query 2019-nCoV OR 2019nCoV OR COVID-19 OR SARS-CoV-2 OR (wuhan AND coronavirus) AND 2019/12[PDAT]:2022/04[PDAT]
+Retstart: 0
+Retstart: 100
+10|2022
+8|2022 Apr
+2|2022 Apr 1
+2|2022 Apr 11
+2|2022 Apr 12
+2|2022 Apr 14
+11|2022 Apr 15
+3|2022 Apr 17
+46|2022 Apr 18
+4|2022 Apr 19
+2|2022 Apr 5
+2|2022 Apr 7
+1|2022 Apr 9
+2|2022 Apr-Jun
+1|2022 Jan-Mar
+1|2022 Mar 25
+1|2022 Mar 29
+100 of 247284 dates extracted using DP
+100|2022/04
+100 of 247284 dates extracted using PHST [pubmed]
+1|2020/11
+1|2021/12
+2|2022/02
+14|2022/03
+21|2022/04
+39 of 247284 dates extracted using PHST [accepted]
+Searching for articles with query 2019-nCoV OR 2019nCoV OR COVID-19 OR SARS-CoV-2 OR (wuhan AND coronavirus) AND 2019/12[PDAT]:2022/04[PDAT]
+Retstart: 0
+Retstart: 100
+0 of 247284 dates extracted using DP
+100|2022/04
+100 of 247284 dates extracted using PHST [pubmed]
+1|2020/11
+1|2021/12
+2|2022/02
+14|2022/03
+21|2022/04
+39 of 247284 dates extracted using PHST [accepted]
+Searching for articles with query 2019-nCoV OR 2019nCoV OR COVID-19 OR SARS-CoV-2 OR (wuhan AND coronavirus) AND 2019/12[PDAT]:2022/04[PDAT]
+Retstart: 0
+Retstart: 1
+0 of 247284 dates extracted using DP
+1|2022/04
+1 of 247284 dates extracted using PHST [pubmed]
+0 of 247284 dates extracted using PHST [accepted]
+Searching for articles with query 2019-nCoV OR 2019nCoV OR COVID-19 OR SARS-CoV-2 OR (wuhan AND coronavirus) AND 2019/12[PDAT]:2022/04[PDAT]
+Retstart: 0
+Retstart: 1
+1|2022 Apr
+1 of 247284 dates extracted using DP
+1|2022/04
+1 of 247284 dates extracted using PHST [pubmed]
+0 of 247284 dates extracted using PHST [accepted]
+Searching for articles with query 2019-nCoV OR 2019nCoV OR COVID-19 OR SARS-CoV-2 OR (wuhan AND coronavirus) AND 2019/12[PDAT]:2022/04[PDAT]
+Retstart: 0
+Retstart: 100
+87|2022 Apr
+1|2022 Jan
+2|2022 Mar
+90 of 247284 dates extracted using DP
+100|2022/04
+100 of 247284 dates extracted using PHST [pubmed]
+1|2020/11
+1|2021/12
+2|2022/02
+14|2022/03
+21|2022/04
+39 of 247284 dates extracted using PHST [accepted]
+Searching for articles with query 2019-nCoV OR 2019nCoV OR COVID-19 OR SARS-CoV-2 OR (wuhan AND coronavirus) AND 2019/12[PDAT]:2022/04[PDAT]
+Retstart: 120000
+Retstart: 1000
+1|2020 Apr
+5|2020 Dec
+3|2020 Jul
+5|2020 Jun
+1|2020 May
+1|2020 Nov
+3|2020 Oct
+2|2020 Sep
+241|2021 Apr
+66|2021 Aug
+10|2021 Dec
+2|2021 Feb
+6|2021 Jan
+96|2021 Jul
+114|2021 Jun
+45|2021 Mar
+114|2021 May
+20|2021 Nov
+25|2021 Oct
+34|2021 Sep
+3|2022 Apr
+7|2022 Feb
+8|2022 Jan
+5|2022 Mar
+1|2022 May
+818 of 247284 dates extracted using DP
+1000|2021/04
+1000 of 247284 dates extracted using PHST [pubmed]
+3|2020/05
+1|2020/07
+5|2020/08
+12|2020/09
+8|2020/10
+16|2020/11
+20|2020/12
+47|2021/01
+83|2021/02
+263|2021/03
+249|2021/04
+707 of 247284 dates extracted using PHST [accepted]
