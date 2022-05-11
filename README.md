@@ -14,7 +14,7 @@ Please copy-paste this into a new document and save as you build your READMEs. F
 
 -This data set is pulled into another Julia function that plots this data for analysis
 
--Development of these files is complete and should be ready for use by a new user
+-Development of these files is complete and can be run in Julia by a user
 
 **- Describe very briefly but clearly what the project does.
 - State if it is out-of-the-box user-friendly, so it’s clear to the user.
@@ -31,6 +31,14 @@ Please copy-paste this into a new document and save as you build your READMEs. F
 -The purpose for these functions is to build graphics and collect learnings from temporal publication trends the current COVID-19 pandemic.
 
 -These learnings are intended to provide best practices or insight into strategizing for future pandemics.
+
+-WE SHOULD INCLUDE REQUIRED PACKAGES HERE
+
+-ADD SEQUENCE OF FILES TO RUN TO PULL, PROCESS, AND VISUALIZE DATA
+
+-INCLUDE API ERROR WORK AROUNDS
+
+-
 
 **- Why does it exist?
 - Frame your project for the potential user. 
