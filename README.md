@@ -30,15 +30,10 @@ Include any essential instructions for:
     Installing It
     Configuring It
     Running it
-- Required Packages: 
+- Required Packages: HTTP, CSV, PyPlot, PlotlyJS
 - Pulling Data:
 - Processing Data:
 - Visualizing Data:
 
 ### Common Error Messages/related details
-- INCLUDE API ERROR WORK AROUNDS
-
-### TODO
-Next steps
-    Features planned
-    Known bugs (shortlist)
+- May run into an API 500 error. A try-catch block was implemented to resolve other API errors. 
