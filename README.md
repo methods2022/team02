@@ -1,15 +1,5 @@
 # Team 02 README - Investigating COVID-19 Pandemic Temporal Research Trends
 
--This project analyzes the temporal frequency patterns of MeSH header data from COVID-19 related publications in NCBI's PubMed using Julia's EFetch pipeline. 
-
--This data is pulled into a series of Julia files that parse and prune the data for standardization purposes
-
--The processing files output MeSH descriptor counts indexed by Date of publication
-
--This data set is pulled into another Julia function that plots this data for analysis
-
--Development of these files is complete and can be run in Julia by a user
-
 **- Describe very briefly but clearly what the project does.
 
     State if it is out-of-the-box user-friendly, so it’s clear to the user.
@@ -20,6 +10,8 @@
     Note its development status.
     Include badges.
     If possible, include screenshots and demo videos.**
+    
+This project analyzes the temporal frequency patterns of MeSH header data from COVID-19 related publications in NCBI's PubMed using Julia's EFetch pipeline. This data is pulled into a series of Julia files that parse and prune the data for standardization purposes. The processing files output MeSH descriptor counts indexed by Date of publication. This data set is pulled into another Julia function that plots this data for analysis. Development of these files is complete and can be run in Julia by a user. 
 
 Core Technical Concepts/Inspiration
 
