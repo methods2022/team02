@@ -1,4 +1,4 @@
-*Team 02 README - Investigating COVID-19 Pandemic Temporal Research Trends
+#Team 02 README - Investigating COVID-19 Pandemic Temporal Research Trends
 
 -This project analyzes the temporal frequency patterns of MeSH header data from COVID-19 related publications in NCBI's PubMed using Julia's EFetch pipeline. 
 
